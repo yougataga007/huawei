@@ -7,7 +7,7 @@
   
   "AdsController": {
       
-    "BannerNetwork"           : "applovin",
+    "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "huawei",
     "RewardNetwork"           : "huawei",
    
