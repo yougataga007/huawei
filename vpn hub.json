@@ -7,7 +7,7 @@
   
   "AdsController": {
       
-    "BannerNetwork"           : "admob",
+    "BannerNetwork"           : "huawei",
     "InterstitialNetwork"     : "huawei",
     "RewardNetwork"           : "huawei",
    
