@@ -7,9 +7,9 @@
   
   "AdsController": {
       
-    "BannerNetwork"           : "yandex",
+    "BannerNetwork"           : "huawei",
     "InterstitialNetwork"     : "huawei",
-    "RewardNetwork"           : "admob",
+    "RewardNetwork"           : "huawei",
    
     "IntervalClick"           : 1,
     
