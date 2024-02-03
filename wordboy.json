@@ -8,7 +8,7 @@
   "AdsController": {
       
 
-    "BannerNetwork"           : "yandex",
+    "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "yandex",
     
     "IntervalClick"           : 1,
