@@ -7,7 +7,7 @@
   
   "AdsController": {
       
-    "BannerNetwork"           : "yandex",
+    "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "yandex",
     "RewardNetwork"           : "yandex",
    
