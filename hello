@@ -9,7 +9,7 @@
       
     "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "admob",
-    "RewardNetwork"           : "admob",
+    "RewardNetwork"           : "yandex",
    
     "IntervalClick"           : 1,
     
