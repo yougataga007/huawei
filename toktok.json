@@ -43,30 +43,6 @@
       "packageName": "com.spotify.music",
       "icon": "https://play-lh.googleusercontent.com/-9pDazczVT7AjhGgjOh_FZdVS0gg03b1I-TzwDoN1J9B4irnNh1inn_-MDOBprIUfT-U=w240-h480",
       "download": "+100 K"
-    },
-    {
-      "name": "Audiomack Music",
-      "packageName": "com.audiomack",
-      "icon": "https://play-lh.googleusercontent.com/4zXhkPkaVyWr-1jyOSw63KXVJSoeJRUOasy9x9Lsr2FBFc1RXHI9hZ-Dioud0hmSlYIv=w240-h480",
-      "download": "+500 K"
-    },
-    {
-      "name": "StarMaker: Sing Karaoke",
-      "packageName": "com.starmakerinteractive.starmaker",
-      "icon": "https://play-lh.googleusercontent.com/93H1tf40Tq_4rn9waqWa6Wm2wx_YBMfPuOsxbzovvrahm3ndyk6hdUzBzetmWTulsw7e=w240-h480",
-      "download": "+100 Million"
-    },
-    {
-      "name": "SounssdCloud: Play Music",
-      "packageName": "com.soundcloud.android",
-      "icon": "https://play-lh.googleusercontent.com/6FoFUmywGeblaF0iUTWb4EdH2SvXeOU_bgXQFRGhHTRiMWVlG8sAVN-BqjlWUJh3GR3a=w240-h480",
-      "download": "+50 Million"
-    },
-    {
-      "name": "Groovepad - music",
-      "packageName": "com.easybrain.make.music",
-      "icon": "https://play-lh.googleusercontent.com/dcJ7ep5ewceCwtR_Xgp7Hfo2GIZxt2WpO5LmqdMfhvKzhOcDmxY84aQBq7kZHs_-vwxP=w240-h480",
-      "download": "+100 Million"
     }
   ]
 }
